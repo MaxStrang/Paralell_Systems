@@ -117,5 +117,5 @@ struct vector
 private:
 	const int n = 0;
 	double *data = nullptr;
-};
-*/
+};*/
+
